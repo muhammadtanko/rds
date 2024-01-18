@@ -1,0 +1,53 @@
+{
+    "programmeName": "",
+    "vision": "",
+    "weight":"",
+    "Objectives": [
+        {
+            "term": "",
+            "objective": "",
+            "fullDescription": "",
+            "startDate":"",
+            "endDate":""
+        }
+    ],
+    "Funding": [],
+    "StrategicInitiatives": [
+        {
+            "name": "",
+            "deliverables": [],
+            "description": "",
+            "weight": "",
+            "documents": [
+                {
+                    "description": "",
+                    "documentUrl": ""
+                }
+            ],
+            "actionSteps": "",
+            "startDate": "",
+            "endDate": ""
+        },
+        {
+            "name": "",
+            "deliverables": [],
+            "description": "",
+            "weight": "",
+            "documents": [
+                {
+                    "description": "",
+                    "documentUrl": ""
+                }
+            ],
+            "actionSteps": "",
+            "startDate": "",
+            "endDate": ""
+        }
+    ],
+    "documents": [
+        {
+            "description": "",
+            "documentUrl": ""
+        }
+    ]
+}

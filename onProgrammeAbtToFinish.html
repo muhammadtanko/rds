@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title> Project Added</title>
+  <title> Programme Approaching Deadline</title>
 </head>
 
 <body style="
@@ -45,17 +45,19 @@ display: flex;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: white;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: white;
             font-size: 2rem;
           ">
-        Project Created
+        Programme Approaching Deadline Notification
       </div>
       <div style="
             width: 90%;
         ">
         <br>
-        <p>This is to announce the successful submission of a new project on the RDS platform. Details below:</p>
+        <p>
+          This is to remind you that the deadline for the <b><%=programmeName%></b>  programme by <b><%=institutionName%></b> is  <b><%=timeFrame%></b>   away. Details of the project are as follows.
+        </p>
 
       </div>
       <div style="
@@ -63,39 +65,21 @@ display: flex;
       background-color: #f8f8fc;
       padding: 10px;
         ">
-        <h4 style="text-align: center;">Project Details:</h4>
-        <p> <b>Ministry Name:</b> </p>
-        <p>
-          <b><%=ministryName%></b>
-        </p>
+        <h4 style="text-align: center;">Programme Details:</h4>
+       
 
-        <p> <b>Project Name:</b> </p>
-        <p>
-          <b><%=projectName%></b>
-        </p>
-
-        <p> <b>Description:</b> </p>
-        <p>
-          <b><%=description%></b>
-        </p>
-
-        <p> <b> Goals and Objectives:</b> </p>
-        <p>
-          <%=projectGoals%>
-        </p>
-
-        <p> <b>Project Start Date:</b> </p>
-        <p>
-          <b><%=startDate%></b>
-        </p>
-
-        <p> <b>Project End Date:</b> </p>
+        <p> <b>Programme End Date:</b> </p>
         <p>
           <b><%=endDate%></b>
         </p>
 
+        <p> <b>Remaining Time:</b> </p>
         <p>
-          This is to ensure the successful execution of this Project while meeting the specified  deadlines. Details will be communicated regularly to provide real-time insights into the  progress of this crucial phase.
+          <b><%=timeFrame%></b>
+        </p>
+
+        <p>
+          Additionally, be reminded that if this programme contains any deliverables, ensure all neccessary preparations are made for their timely uploads as no document would be accepted after the said deadline.
         </p>
         <hr>
         <br>
@@ -104,7 +88,7 @@ display: flex;
       </div>
 
     </div>
-    <div 
+    <div align-items: center;
       style="margin: 0 auto;color: #fff; background-color:#232323; width: 80%;  font-size:  x-small;height: 40px; align-items: center;padding: 2px; text-align: center;">
       <div style="padding-top: 5px;">
         Central Delivery Coordinating Unit (CDCU)

@@ -1,0 +1,41 @@
+{
+    "mda": "Ministry of Budget and National Planning",
+    "name": "NATIONAL POLICY ON FOOD AND NUTRITION IN NIGERIA",
+    "objective": "To achieve the goal of attaining an optimal nutritional status by the year 2025",
+    "goal": "To attain optimal nutritional status for all Nigerians, with particular emphasis on the most vulnerable groups such as children, adolescents, women, elderly, and groups with special nutritional needs",
+    "vision":"A country where the people are equitably food and nutrition-secure with high quality of life and socioeconomic development contributing to humancapital development objectives of Nigeria Vision 20:20:20 and beyond.",
+    "kpi": [
+      "To improve food security at the national, community and household levels",
+      "To reduce undernutrition among infants and children, adolescents and women of reproductive age",
+      "To significantly reduce micronutrient deficiency disorders, especially among the vulnerable group"
+    ],
+    "weight":"",
+    "targets": [
+      {
+        "name": "MS1",
+        "description": "Reduce the proportion of people who suffer hunger and malnutrition, Current index is 30% to a target of 60% ",
+        "remark": "",
+        "weight":"",
+        "startDate": "2023-12-10T00:00:00",
+        "endDate": "2025-02-28T00:00:00"
+      },
+      {
+        "name": "MS2",
+        "description": "Increase exclusive breastfeeding from 35% to 55%",
+        "remark": "",
+        "weight":"",
+        "startDate": "2023-12-10T00:00:00",
+        "endDate": "2025-02-28T00:00:00"
+      },
+      {
+        "name": "MS3",
+        "description": "Increase the percentage of children age six months and above who receive appropriate complementary feeding from 29% to 52%",
+        "remark": "",
+        "weight":"",
+        "startDate": "2023-12-10T00:00:00",
+        "endDate": "2025-02-28T00:00:00"
+      }
+    ],
+    "startDate": "2023-12-10T00:00:00",
+    "endDate": "2025-12-10T00:00:00"
+  }

@@ -1,0 +1,277 @@
+{
+  "mda": "Federal Ministry Of Agriculture",
+  "name": "Arable Land expansion Project",
+  "objective": "Increase arable land from 35% to 65%",
+  "description": "This initiative intends to increase the percentage of arable land in Nigeria from the current 35% to 65%, as this is the foundation of improving agriculture in Nigeria",
+  "kpi": [
+    "Expand the arable land in Nigeria from 35% to 65%."
+  ],
+  "weight": 35,
+  "milestones": [
+    {
+      "name": "MS1",
+      "deliverables": "Contract completion certificate from land clearing companies in the South West (SW)region",
+      "description": "National Agricultural Land Development Agency(NALDA) to clear eligible land in the South West (SW) region",
+      "weight": "10",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS2",
+      "deliverables": "Contract completion certificate from land clearing companies in the South South(SS) region",
+      "description": "National Agricultural Land Development Agency(NALDA) to clear eligible land in the South South(SS) region",
+      "weight": "10",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS3",
+      "deliverables": "Contract completion certificate from land clearing companies in the South East (SE) region",
+      "description": "National Agricultural Land Development Agency(NALDA) to clear eligible land in the South East (SE)",
+      "weight": "10",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    },
+    
+    {
+      "name": "MS4",
+      "deliverables": "Contract completion certificate from land clearing companies in the North Central (NC) region",
+      "description": "National Agricultural Land Development Agency(NALDA) to clear eligible land in the North Central (NC)",
+      "weight": "10",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    },
+    {
+      "name": "MS5",
+      "deliverables": "Contract completion certificate from land clearing companies in the North East (NE) region",
+      "description": "National Agricultural Land Development Agency(NALDA) to clear eligible land in the North East (NE)",
+      "weight": "10",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10 00:00:00"
+    },
+    {
+      "name": "MS6",
+      "deliverables": "Contract completion certificate from land clearing companies in the North West (NW) region",
+      "description": "National Agricultural Land Development Agency(NALDA) to clear eligible land in the North West (NW)",
+      "weight": "10",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10 00:00:00"
+    },
+    {
+      "name": "MS7",
+      "deliverables": "Complete register and allocation of eligible farmers including demographic information such as name ,farm size and coordinates to cleared land",
+      "description": "",
+      "weight": "30",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    }
+  ],
+  "startDate": "2023-12-10T00:00:00",
+  "endDate": "2024-12-10T00:00:00"
+},
+
+{
+  "mda": "Federal Ministry Of Transportation",
+  "name": "Waterways Expansion Project",
+  "objective": "Harness the potential of all rivers, lakes, and waterways",
+  "description": "Given the size of the nation and its economy, Nigeria should be a significant maritime player.Additionally, our inland rivers, lakes, and waterways are underutilized, both in terms of cargo shipment and passenger transportation.",
+  "kpi": [
+    "Completely develop the Nigerian Maritime/Inland Waterways to the fullest potential"
+  ],
+  "weight": 35,
+  "milestones": [
+    {
+      "name": "MS1",
+      "deliverables": "Contract completion certificate issued by the Nigerian Port Authority (NPA)",
+      "description": "Decongest the Apapa Port and distribute traffic to other major Seaports.",
+      "weight": "20",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS2",
+      "deliverables": "Project verification completion certificate issued by the Nigerian Port Authority (NPA)",
+      "description": "Deepening all harbors and shipping lanes as well as enlarging berths and docking facilities to allow for the largest cargo vessels to use all Nigerian seaports.",
+      "weight": "30",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    },
+    {
+      "name": "MS3",
+      "deliverables": "Contract completion certificate issued by the Nigerian Port Authority (NPA)",
+      "description": "Dredging strategically important inland waterways to make navigation of goods and people easier.",
+      "weight": "30",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS4",
+      "deliverables": "Completion reports by the Nigerian Port Authority (NPA)",
+      "description": "Deepening all harbors and shipping lanes as well as enlarging berths and docking facilities to allow for the largest cargo vessels to use all Nigerian seaports.",
+      "weight": "",
+      "score": "20",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    }
+  ],
+  "startDate": "2023-12-10T00:00:00",
+  "endDate": "2024-12-10T00:00:00"
+},
+
+
+
+{
+  "mda": "Federal Ministry Of Petroleum Resources",
+  "name": "Ajaokuta-Kaduna-Kano Pipeline (Phase 1)",
+  "objective": "Harness Domestic Gas Potential",
+  "description": "The Ajaokuta–Kaduna–Kano Natural Gas Pipeline is a pipeline planned
+  to transport natural gas from Ajaokuta, in Kogi State to Kano, in Kano State, through
+  several states and urban centers, as part of the Trans Nigeria Gas Pipeline.",
+  "kpi": [
+    "Complete critical gas infrastructure projects"
+  ],
+  "weight": 35,
+  "milestones": [
+    {
+      "name": "MS1",
+      "deliverables": "Submitted Proposal Document to ICRC",
+      "description": "NNPC to submit the proposal for the Ajaokuta–Kaduna–Kano (AKK) natural gasmpipeline project to Infrastructure Concession Regulatory Commission (ICRC) and implement any related feedback.",
+      "weight": "15",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS2",
+      "deliverables": "Completed feasibility study report.",
+      "description": "Initiate and complete feasibility study.",
+      "weight": "35",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    },
+    {
+      "name": "MS3",
+      "deliverables": "FEC Approval",
+      "description": "Obtain Federal Executive Council (FEC) approval.",
+      "weight": "20",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS4",
+      "deliverables": "Completed feasibility study
+      report.",
+      "description": "Complete all contractual activities and begin deployment to sites.",
+      "weight": "30",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    }
+  ],
+  "startDate": "2023-12-10T00:00:00",
+  "endDate": "2024-12-10T00:00:00"
+},
+
+
+{
+  "mda": "Federal Ministry Of Education",
+  "name": "Restructuring Tertiary Institutions",
+  "objective": "To build independent and resilient tetiary institutions across the nation",
+  "description": "The administration will lay infrastructure to help build modern and resiliant primary,secondary and tetiary intitutions across the nation",
+  "kpi": [
+    "Restructure all Institutions "
+  ],
+  "weight": 35,
+  "milestones": [
+    {
+      "name": "MS1",
+      "deliverables": "Issued Accredited certificates",
+      "description": "Accreditation standards will be developed for all institutions.All institutions of learning in Nigeria will eventually be required to comply with the new standards after a reasonable period of adjustment.",
+      "weight": "25",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS2",
+      "deliverables": "Results of standardised examinations and trainings",
+      "description": "Standardised examintions of current lecturers and teachers and essential trainings in their respective professions.",
+      "weight": "25",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    },
+    {
+      "name": "MS3",
+      "deliverables": "Document of Accepted students and proof of payment to their accounts",
+      "description": "Provision of student loans to all eligible Nigerians regardless of their backgrounds",
+      "weight": "25",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2023-12-10T00:00:00",
+      "endDate": "2024-02-28T00:00:00"
+    },
+    {
+      "name": "MS4",
+      "deliverables": "Commissioning documents from respective technical and vocational schools.",
+      "description": "Reform technical and vocational learning institutions to stimulate Nigeria's natural entrepreneurial spirit and empower more individuals toward self-reliance.",
+      "weight": "25",
+      "score": "",
+      "remark": "",
+      "documents": [],
+      "startDate": "2024-03-01T00:00:00",
+      "endDate": "2024-12-10T00:00:00"
+    }
+  ],
+  "startDate": "2023-12-10T00:00:00",
+  "endDate": "2024-12-10T00:00:00"
+},
+
+
