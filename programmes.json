@@ -2,7 +2,8 @@
     "programmeName": "",
     "vision": "",
     "weight":"",
-    "Objectives": [
+    "description":"",
+    "objectives": [
         {
             "term": "",
             "objective": "",
@@ -11,8 +12,8 @@
             "endDate":""
         }
     ],
-    "Funding": [],
-    "StrategicInitiatives": [
+    "funding": [],
+    "strategicInitiatives": [
         {
             "name": "",
             "deliverables": [],
